@@ -1,5 +1,5 @@
 .tutorial {
-  width: 600px;
+  max-width: 600px;
   text-align: center;
   margin: auto;
 }
@@ -34,6 +34,10 @@ figure .image img {
 .forms {
   display: flex;
   justify-content: space-around;
+}
+
+.column {
+  margin: 0 15px 0;
 }
 
 .dropdown-item {

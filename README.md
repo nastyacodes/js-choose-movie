@@ -1,9 +1,9 @@
-# [Movie Fight](https://nastyacodes.github.io/js-choose-movie/)
+# [Movie Fight](https://nastyacodes.github.io/js-movie-fight/)
 
 #### Simple application to make your movie decision for tonight a little easier.
 
 ### How it works:
-1. Go to [https://nastyacodes.github.io/js-choose-movie/](https://nastyacodes.github.io/js-choose-movie/).
+1. Go to [https://nastyacodes.github.io/js-movie-fight/](https://nastyacodes.github.io/js-movie-fight/).
 2. Begin typing the name of the movie in one of the inputs.
 3. Choose one movie from the list created by autocompletion.
 4. Do the same for another input.
